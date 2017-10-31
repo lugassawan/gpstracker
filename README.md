@@ -1,0 +1,1 @@
+Aplikasi ini dibuat sebagai riset untuk membuat gps tracker berbasis web untuk memantau  lokasi kendaraan pengguna.
